@@ -1,0 +1,40 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Snail Shell Mug",
+    "description": "A ceramic mug shaped like a cozy snail shell, perfect for tea or coffee.",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Garden Snail Plushie",
+    "description": "A soft, cuddly plushie modeled after a friendly garden snail.",
+    "price": 18.5
+  },
+  {
+    "id": 3,
+    "name": "Snail Trail Notebook",
+    "description": "A spiral-bound notebook with whimsical snail illustrations on every page.",
+    "price": 7.25
+  },
+  {
+    "id": 4,
+    "name": "Snail Enamel Pin",
+    "description": "A cute enamel pin featuring a smiling snail, perfect for bags or jackets.",
+    "price": 4.75
+  },
+  {
+    "id": 5,
+    "name": "Snail Soap Dish",
+    "description": "A hand-crafted soap dish shaped like a snail to keep your soap dry and stylish.",
+    "price": 9.95
+  },
+  {
+    "id": 6,
+    "name": "Snail Pattern Socks",
+    "description": "Comfy socks decorated with colorful snail patterns for cozy feet.",
+    "price": 6.5
+  }
+]
